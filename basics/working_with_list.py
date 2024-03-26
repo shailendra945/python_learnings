@@ -1,0 +1,26 @@
+colors = ["RED", "GREEN", "BLACK", "ORANGE", "YELLOW"]
+print(colors)
+print("1.print first index value of the list : ")
+print(colors[0])
+print("2.print second index value of the list : ")
+print(colors[1])
+print("3. last value of list")
+print(colors[-1])
+print("4. print second last value of list")
+print(colors[-2])
+print("5. print the first three value of list")
+print(colors[0:3])
+print(colors[:3])
+print("6.print 2nd ,3rd , 4th value of list")
+print(colors[1:4])
+print("7. first four values of list")
+print(colors[-5:-1])
+print(colors[0:4])
+print("8.last three values of list")
+print(colors[2:])
+print("8.find the length of list")
+print(len(colors))
+
+numbers = [90, 10, 30, 50, 20, 40, 80, 60, 70, 100]
+print(numbers)
+
